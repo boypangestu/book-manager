@@ -1,0 +1,4 @@
+#Wed Oct 20 17:35:05 ICT 2021
+base.0=C\:\\FlutterDev\\bookmanager\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

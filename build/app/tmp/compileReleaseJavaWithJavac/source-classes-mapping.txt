@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/bookmanager/BuildConfig.java
+ com.example.bookmanager.BuildConfig
